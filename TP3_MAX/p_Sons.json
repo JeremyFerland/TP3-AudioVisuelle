@@ -1,0 +1,85 @@
+{
+	"pattrstorage" : 	{
+		"name" : "grainGen_1",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"PresetName" : [ "NUIT" ],
+					"env" : [ 0 ],
+					"sound" : [ 0 ],
+					"Pause::max" : [ 2000.0 ],
+					"Pause::min" : [ 1500.0 ],
+					"Pause::steps" : [ 10 ],
+					"Pause::table" : [ 0, 0, 0, 0, 0, 0, 95, 98, 102, 106 ],
+					"Start::max" : [ 1000.0 ],
+					"Start::min" : [ 0.0 ],
+					"Start::steps" : [ 10 ],
+					"Start::table" : [ 89, 78, 69, 0, 0, 0, 0, 0, 0, 0 ],
+					"Dur::max" : [ 4000.0 ],
+					"Dur::min" : [ 3500.0 ],
+					"Dur::steps" : [ 10 ],
+					"Dur::table" : [ 0, 0, 0, 0, 0, 0, 0, 103, 95, 96 ],
+					"Pitch::max" : [ 100.0 ],
+					"Pitch::min" : [ 0.0 ],
+					"Pitch::steps" : [ 10 ],
+					"Pitch::table" : [ 9, 31, 45, 52, 55, 55, 49, 39, 25, 1 ],
+					"spatX::max" : [ 1.0 ],
+					"spatX::min" : [ 0.0 ],
+					"spatX::steps" : [ 10 ],
+					"spatX::table" : [ 91, 96, 98, 102, 102, 102, 102, 98, 95, 91 ],
+					"Amp::max" : [ 0.0 ],
+					"Amp::min" : [ -10.0 ],
+					"Amp::steps" : [ 10 ],
+					"Amp::table" : [ 0, 0, 0, 0, 0, 0, 0, 22, 78, 127 ],
+					"moveX::max" : [ 1.0 ],
+					"moveX::min" : [ -1.0 ],
+					"moveX::steps" : [ 10 ],
+					"moveX::table" : [ 62, 85, 99, 116, 119, 119, 116, 108, 98, 81 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"PresetName" : [ "JOUR" ],
+					"env" : [ 0 ],
+					"sound" : [ 0 ],
+					"Pause::max" : [ 900.0 ],
+					"Pause::min" : [ 750.0 ],
+					"Pause::steps" : [ 10 ],
+					"Pause::table" : [ 102, 91, 65, 55, 44, 24, 9, 0, 0, 0 ],
+					"Start::max" : [ 1000.0 ],
+					"Start::min" : [ 0.0 ],
+					"Start::steps" : [ 10 ],
+					"Start::table" : [ 28, 28, 36, 42, 46, 51, 52, 46, 24, 0 ],
+					"Dur::max" : [ 2000.0 ],
+					"Dur::min" : [ 1500.0 ],
+					"Dur::steps" : [ 10 ],
+					"Dur::table" : [ 0, 0, 0, 0, 0, 0, 0, 28, 66, 108 ],
+					"Pitch::max" : [ 100.0 ],
+					"Pitch::min" : [ 0.0 ],
+					"Pitch::steps" : [ 10 ],
+					"Pitch::table" : [ 7, 11, 17, 18, 19, 19, 18, 15, 11, 2 ],
+					"spatX::max" : [ 1.0 ],
+					"spatX::min" : [ 0.0 ],
+					"spatX::steps" : [ 10 ],
+					"spatX::table" : [ 91, 96, 98, 102, 102, 102, 102, 98, 95, 91 ],
+					"Amp::max" : [ 0.0 ],
+					"Amp::min" : [ -25.0 ],
+					"Amp::steps" : [ 10 ],
+					"Amp::table" : [ 0, 0, 0, 0, 0, 0, 78, 82, 83, 93 ],
+					"moveX::max" : [ 1.0 ],
+					"moveX::min" : [ -1.0 ],
+					"moveX::steps" : [ 10 ],
+					"moveX::table" : [ 88, 88, 105, 72, 79, 93, 58, 76, 82, 79 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

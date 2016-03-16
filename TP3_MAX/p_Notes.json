@@ -1,0 +1,65 @@
+{
+	"pattrstorage" : 	{
+		"name" : "PitchSelection1",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"PresetName" : [ "Notes", "Nuit" ],
+					"active1" : [ 1 ],
+					"active10" : [ 0 ],
+					"active2" : [ 1 ],
+					"active3" : [ 1 ],
+					"active4" : [ 1 ],
+					"active5" : [ 1 ],
+					"active6" : [ 1 ],
+					"active7" : [ 1 ],
+					"active8" : [ 0 ],
+					"active9" : [ 0 ],
+					"note1" : [ 52 ],
+					"note10" : [ 45 ],
+					"note2" : [ 55 ],
+					"note3" : [ 59 ],
+					"note4" : [ 65 ],
+					"note5" : [ 71 ],
+					"note6" : [ 79 ],
+					"note7" : [ 81 ],
+					"note8" : [ 48 ],
+					"note9" : [ 47 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"PresetName" : [ "Notes", "Jour" ],
+					"active1" : [ 1 ],
+					"active10" : [ 0 ],
+					"active2" : [ 1 ],
+					"active3" : [ 1 ],
+					"active4" : [ 1 ],
+					"active5" : [ 1 ],
+					"active6" : [ 1 ],
+					"active7" : [ 1 ],
+					"active8" : [ 0 ],
+					"active9" : [ 0 ],
+					"note1" : [ 69 ],
+					"note10" : [ 45 ],
+					"note2" : [ 71 ],
+					"note3" : [ 72 ],
+					"note4" : [ 74 ],
+					"note5" : [ 67 ],
+					"note6" : [ 71 ],
+					"note7" : [ 72 ],
+					"note8" : [ 48 ],
+					"note9" : [ 47 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
